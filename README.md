@@ -1,5 +1,5 @@
 # Ultimate Social-Distancing-ml
-An attempt to make a model that monitors whether or not social distancing cues are followed.
+An attempt to make a model that monitors whether or not social distancing cues are followed. Also, detects if a face-mask is worn or not.
 ## Technologies
 - Python 3.5 (or above)
 - OpenCV
